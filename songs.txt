@@ -10,4 +10,6 @@ First commit on feature branch to perform rebase operation
 
 Seconf commit on feature branch to perform merge operation
 
+Third commit on feature branch to perform merge operation
+
 
