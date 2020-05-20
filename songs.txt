@@ -7,4 +7,3 @@ Second commit to be reverted
 Third commit to be reverted
 
 
-A new sentence from feature-1 branch
