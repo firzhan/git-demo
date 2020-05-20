@@ -6,4 +6,6 @@ Second commit to be reverted
 
 Third commit to be reverted
 
+First commit on feature branch to perform rebase operation 
+
 
