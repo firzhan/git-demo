@@ -1,6 +1,17 @@
 # git-demo
 Git Demo
 
-First Edit on Demo
+
+
+
+
+Adding intermediate line from Feature-1 branch
+
+
+
+
 
 Adding comment from Feature -1 
+
+
+Adding comment from Feature-1 Branch
